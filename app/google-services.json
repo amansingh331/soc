@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705077926696",
+    "project_id": "socapp-6a07e",
+    "storage_bucket": "socapp-6a07e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705077926696:android:727e32837a44b46ccd0e1d",
+        "android_client_info": {
+          "package_name": "com.example.soc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705077926696-dr2lq5vsmaqugk7dlg1aq98bqvv962r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUOyVZjXhAD47wPup9M85lPplTSb9Hr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705077926696-dr2lq5vsmaqugk7dlg1aq98bqvv962r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
